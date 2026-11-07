@@ -59,6 +59,11 @@ JSON dosyaları `dbs/` klasöründe:
 - `packages.json` - Tanımlı paketler
 - `user_packages.json` - Kullanıcı-paket atamaları
 
+## Data
+
+- Datayı discord.gg/development sunucumuzdan erişebilirsiniz 
+- Oradan aldığınız datanın ismini data.json yapıp kullanmaya başlayabilirsiniz
+
 ## Gereksinimler
 
 - Node.js 18+
