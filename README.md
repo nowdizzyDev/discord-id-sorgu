@@ -69,6 +69,12 @@ JSON dosyaları `dbs/` klasöründe:
 - Node.js 18+
 - discord.js v14
 
+## Pictures
+
+![Resim](https://i.ibb.co/5gY0y026/image1.png)
+![Resim2](https://i.ibb.co/SDZwhWQ5/image2.png)
+![Resim3](https://i.ibb.co/DDPvdG6x/image3.png)
+
 ## Lisans
 
 MIT
